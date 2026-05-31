@@ -6,9 +6,9 @@
     "type": "offline"
   },
   "server": {
-    "ip": "nickgamer.aternos.me",
-    "port": 15504,
-    "version": "1.20.1",
+    "ip": "nickgamersurvival.aternos.me",
+    "port": 28733,
+    "version": "1.21.11 (132)",
     "try-creative": false
   },
   "position": {
@@ -32,7 +32,7 @@
       "repeat-delay": 120,
       "messages": [
         "I'm a regular player",
-        "Subscribe to Slobos!",
+        "Subscribe to NickGamer!",
         "I like to play Minecraft!"
       ]
     },
@@ -74,7 +74,7 @@
   },
   "discord": {
     "enabled": false,
-    "webhookUrl": "YOUR_DISCORD_WEBHOOK_URL_HERE",
+    "webhookUrl": "https://nickgamer.webnode.sk",
     "events": {
       "connect": true,
       "disconnect": true,
